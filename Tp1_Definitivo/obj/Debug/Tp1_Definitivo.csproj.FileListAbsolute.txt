@@ -1,0 +1,14 @@
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.csproj.AssemblyReference.cache
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.Form1.resources
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.Inicializar.resources
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.JuegoNuevo.resources
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.Movimientos.resources
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.Properties.Resources.resources
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.csproj.GenerateResource.cache
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.csproj.CoreCompileInputs.cache
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\bin\Debug\Tp1_Definitivo.exe.config
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\bin\Debug\Tp1_Definitivo.exe
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\bin\Debug\Tp1_Definitivo.pdb
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.exe
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.pdb
+C:\Users\micac\source\repos\Tp1\Tp1_Definitivo\obj\Debug\Tp1_Definitivo.ListaGanadores.resources
